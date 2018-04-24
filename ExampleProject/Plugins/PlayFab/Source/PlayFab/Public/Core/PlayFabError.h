@@ -373,7 +373,8 @@ namespace PlayFab
         PlayFabErrorEmailReportAlreadySent = 1369,
         PlayFabErrorEmailReportRecipientBlacklisted = 1370,
         PlayFabErrorEventNamespaceNotAllowed = 1371,
-        PlayFabErrorEventEntityNotAllowed = 1372
+        PlayFabErrorEventEntityNotAllowed = 1372,
+        PlayFabErrorInvalidEntityType = 1373
     };
 
     struct FPlayFabError
